@@ -1,0 +1,80 @@
+{
+    "handKeyPoints": {
+      "thumb_cmc": { "x": 0.1, "y": 0.2, "z": -0.2 },
+      "thumb_mcp": { "x": 0.2, "y": 0.3, "z": -0.3 },
+      "thumb_ip": { "x": 0.3, "y": 0.4, "z": -0.4 },
+      "thumb_tip": { "x": 0.4, "y": 0.5, "z": -0.5 },
+      "index_finger_mcp": { "x": 0.2, "y": 0.1, "z": -0.3 },
+      "index_finger_pip": { "x": 0.3, "y": 0.2, "z": -0.4 },
+      "index_finger_dip": { "x": 0.4, "y": 0.3, "z": -0.5 },
+      "index_finger_tip": { "x": 0.5, "y": 0.4, "z": -0.6 },
+      "middle_finger_mcp": { "x": 0.2, "y": 0.2, "z": -0.3 },
+      "middle_finger_pip": { "x": 0.3, "y": 0.3, "z": -0.4 },
+      "middle_finger_dip": { "x": 0.4, "y": 0.4, "z": -0.5 },
+      "middle_finger_tip": { "x": 0.5, "y": 0.5, "z": -0.6 },
+      "ring_finger_mcp": { "x": 0.2, "y": 0.3, "z": -0.3 },
+      "ring_finger_pip": { "x": 0.3, "y": 0.4, "z": -0.4 },
+      "ring_finger_dip": { "x": 0.4, "y": 0.5, "z": -0.5 },
+      "ring_finger_tip": { "x": 0.5, "y": 0.6, "z": -0.6 },
+      "pinky_finger_mcp": { "x": 0.2, "y": 0.4, "z": -0.3 },
+      "pinky_finger_pip": { "x": 0.3, "y": 0.5, "z": -0.4 },
+      "pinky_finger_dip": { "x": 0.4, "y": 0.6, "z": -0.5 },
+      "pinky_finger_tip": { "x": 0.5, "y": 0.7, "z": -0.6 }
+    },
+    "fingerAnimationSequence": [
+      {
+        "time": 0,
+        "handKeyPoints": {
+          "thumb_cmc": { "x": 0.0, "y": 0.0, "z": 0.0 },
+          "thumb_mcp": { "x": 0.0, "y": 0.0, "z": 0.0 },
+          "thumb_ip": { "x": 0.0, "y": 0.0, "z": 0.0 },
+          "thumb_tip": { "x": 0.0, "y": 0.0, "z": 0.0 }
+        }
+      },
+      {
+        "time": 1,
+        "handKeyPoints": {
+          "thumb_cmc": { "x": 0.1, "y": 0.2, "z": -0.2 },
+          "thumb_mcp": { "x": 0.2, "y": 0.3, "z": -0.3 },
+          "thumb_ip": { "x": 0.3, "y": 0.4, "z": -0.4 },
+          "thumb_tip": { "x": 0.4, "y": 0.5, "z": -0.5 }
+        }
+      },
+      {
+        "time": 2,
+        "handKeyPoints": {
+          "index_finger_mcp": { "x": 0.2, "y": 0.1, "z": -0.3 },
+          "index_finger_pip": { "x": 0.3, "y": 0.2, "z": -0.4 },
+          "index_finger_dip": { "x": 0.4, "y": 0.3, "z": -0.5 },
+          "index_finger_tip": { "x": 0.5, "y": 0.4, "z": -0.6 }
+        }
+      },
+      {
+        "time": 3,
+        "handKeyPoints": {
+          "middle_finger_mcp": { "x": 0.2, "y": 0.2, "z": -0.3 },
+          "middle_finger_pip": { "x": 0.3, "y": 0.3, "z": -0.4 },
+          "middle_finger_dip": { "x": 0.4, "y": 0.4, "z": -0.5 },
+          "middle_finger_tip": { "x": 0.5, "y": 0.5, "z": -0.6 }
+        }
+      },
+      {
+        "time": 4,
+        "handKeyPoints": {
+          "ring_finger_mcp": { "x": 0.2, "y": 0.3, "z": -0.3 },
+          "ring_finger_pip": { "x": 0.3, "y": 0.4, "z": -0.4 },
+          "ring_finger_dip": { "x": 0.4, "y": 0.5, "z": -0.5 },
+          "ring_finger_tip": { "x": 0.5, "y": 0.6, "z": -0.6 }
+        }
+      },
+      {
+        "time": 5,
+        "handKeyPoints": {
+          "pinky_finger_mcp": { "x": 0.2, "y": 0.4, "z": -0.3 },
+          "pinky_finger_pip": { "x": 0.3, "y": 0.5, "z": -0.4 },
+          "pinky_finger_dip": { "x": 0.4, "y": 0.6, "z": -0.5 },
+          "pinky_finger_tip": { "x": 0.5, "y": 0.7, "z": -0.6 }
+        }
+      }
+    ]
+  }
